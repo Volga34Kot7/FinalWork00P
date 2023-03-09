@@ -1,0 +1,15 @@
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\bin\Debug\net6.0\CargoStorage.exe
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\bin\Debug\net6.0\CargoStorage.deps.json
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\bin\Debug\net6.0\CargoStorage.runtimeconfig.json
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\bin\Debug\net6.0\CargoStorage.dll
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\bin\Debug\net6.0\CargoStorage.pdb
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.csproj.AssemblyReference.cache
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.AssemblyInfoInputs.cache
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.AssemblyInfo.cs
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.csproj.CoreCompileInputs.cache
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.dll
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\refint\CargoStorage.dll
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.pdb
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\CargoStorage.genruntimeconfig.cache
+C:\Asgard\C#\finalwork\CargoStorage\CargoStorage\obj\Debug\net6.0\ref\CargoStorage.dll
